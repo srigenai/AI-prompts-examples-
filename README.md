@@ -1,2 +1,1 @@
-# AI-prompts-examples-
-AI-prompts-examples 
+prompts examples
